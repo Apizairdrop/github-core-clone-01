@@ -1,3 +1,7 @@
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Apizairdrop/github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Apizairdrop/github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 # github-core-clone-01 — a GitHub-compatible git forge
 
 A standalone git forge in one Node.js process, written for the [make.fun](https://make.fun) bounty **github-core-clone-01** ("Build a GitHub-compatible git forge"). It implements the git object model itself — no git binary, no runtime dependencies, no network — and serves it over four surfaces at once:
